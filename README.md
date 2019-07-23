@@ -1,3 +1,9 @@
+forked from andreaswinkelbauer/spawc2015
+
+Very good implementation of mutual-information-optimal quantization of log-likelihood ratios (LLRs). Optimization of fixed point quantization using Mutual Information.
+
+
+
 # On Quantization of Log-Likelihood Ratios for Maximum Mutual Information
 
 This code package corresponds to the following scientific paper:
